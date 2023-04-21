@@ -1,0 +1,964 @@
+576   "<e1>cwe-1132</e1> weakness category relate <e2>cisq quality measure</e2> performance efficiency document 2016 automate source code performance efficiency measure ascpem specification 10"
+HasMember(e2,e1)
+Comment:
+
+577   "<e1>cwe-1134</e1> weakness category relate rule recommendation input validation data sanitization id section <e2>sei cert oracle secure cod standard java</e2>"
+HasMember(e2,e1)
+Comment:
+
+578   "<e1>cwe-1135</e1> weakness category relate rule recommendation declaration initialization dcl section <e2>sei cert oracle secure cod standard java</e2>"
+HasMember(e2,e1)
+Comment:
+
+579   "<e1>cwe-1136</e1> weakness category relate rule recommendation expression exp section <e2>sei cert oracle secure cod standard java</e2>"
+HasMember(e2,e1)
+Comment:
+
+580   "<e1>cwe-1155</e1> weakness category relate rule recommendation preprocessor pre section <e2>sei cert c cod standard</e2>"
+HasMember(e2,e1)
+Comment:
+
+581   "<e1>cwe-1156</e1> weakness category relate rule recommendation declaration initialization dcl section <e2>sei cert c cod standard</e2>"
+HasMember(e2,e1)
+Comment:
+
+582   "<e1>cwe-1157</e1> weakness category relate rule recommendation expression exp section <e2>sei cert c cod standard</e2>"
+HasMember(e2,e1)
+Comment:
+
+583   "<e1>cwe-1179</e1> weakness category relate rule recommendation input validation data sanitization id section <e2>sei cert perl cod standard</e2>"
+HasMember(e2,e1)
+Comment:
+
+584   "<e1>cwe-1180</e1> weakness category relate rule recommendation declaration initialization dcl section <e2>sei cert perl cod standard</e2>"
+HasMember(e2,e1)
+Comment:
+
+585   "<e1>cwe-1181</e1> weakness category relate rule recommendation expression exp section <e2>sei cert perl cod standard</e2>"
+HasMember(e2,e1)
+Comment:
+
+586   "<e1>cwe-1208</e1> weakness category arise multiple area <e2>hardware design</e2> apply wide cross-section component"
+HasMember(e2,e1)
+Comment:
+
+587   "cwe-108 although j2ee application generally susceptible memory corruption attack j2ee application interface native code perform array bound check attacker may able use <e1>input validation mistake</e1> j2ee application launch <e2>buffer overflow</e2> attack"
+BeResult(e2,e1)
+Comment:
+
+588   "<e1>cwe-109</e1> expose application weakness related <e2>insufficient input validation</e2>"
+BeResult(e2,e1)
+Comment:
+
+589   "<e1>cwe-109</e1> however disabled make page susceptible <e2>cross-site scripting</e2> attack"
+BeResult(e2,e1)
+Comment:
+
+590   "<e1>cwe-1096</e1> issue prevent software run reliably eg make instantiation process non-thread-safe introduce <e2>deadlock</e2> cwe-833 livelock condition"
+BeResult(e2,e1)
+Comment:
+
+591   "<e1>cwe-110</e1> although j2ee application generally susceptible memory corruption attack j2ee application interface native code perform array bound check attacker may able use input validation mistake j2ee application launch <e2>buffer overflow</e2> attack"
+BeResult(e2,e1)
+Comment:
+
+592   "cwe-110 <e1>cross-site scripting</e1> sql injection process control vulnerabilities stem <e2>incomplete absent input validation</e2>"
+BeResult(e1,e2)
+Comment:
+
+593   "cwe-110 cross-site scripting <e1>sql injection</e1> process control vulnerabilities stem <e2>incomplete absent input validation</e2>"
+BeResult(e1,e2)
+Comment:
+
+594   "cwe-110 cross-site scripting sql injection <e1>process control</e1> vulnerabilities stem <e2>incomplete absent input validation</e2>"
+BeResult(e1,e2)
+Comment:
+
+595   "<e1>cwe-111</e1> language use implement native code may susceptible <e2>buffer overflow</e2> attack"
+Others(e1,e2)
+Comment:
+
+596   "<e1>cwe-111</e1> example implement java may appear immune memory issue like <e2>buffer overflow</e2> vulnerability"
+Others(e1,e2)
+Comment:
+
+597   "<e1>cwe-111</e1> despite memory protection offer java c code example vulnerable <e2>buffer overflow</e2> make use get check length input"
+CanFollow(e2,e1)
+Comment:
+
+598   "<e1>cwe-116</e1> program set charset send page browser allow <e2>xss</e2> exploitation browser chooses unexpected encode"
+CanFollow(e2,e1)
+Comment:
+
+599   "<e1>cwe-119</e1> weakness detect use dynamic tool technique interact software use large test suit many diverse input fuzz test fuzzing robustness test <e2>fault injection</e2>"
+CanFollow(e1,e2)
+Comment:
+
+600   "<e1>cwe-120</e1> security check perform client side ensure check duplicate server side order avoid <e2>cwe-602</e2>"
+IntroduceFollow(e2,e1)
+Comment:
+
+601   "<e1>cwe-120</e1> approach still susceptible calculation error include issue <e2>off-by-one error</e2> cwe-193 incorrectly calculate buffer lengths cwe-131"
+IntroduceFollow(e2,e1)
+Comment:
+
+602   "<e1>cwe-120</e1> approach still susceptible calculation error include issue off-by-one error cwe-193 <e2>incorrectly calculate buffer lengths</e2> cwe-131"
+IntroduceFollow(e2,e1)
+Comment:
+
+603   "<e1>cwe-120</e1> careful avoid <e2>cwe-243</e2> weakness relate jail"
+IntroduceFollow(e2,e1)
+Comment:
+
+604   "<e1>cwe-121</e1> run compile software use feature extension automatically provide protection mechanism mitigate eliminates <e2>buffer overflow</e2>"
+ChildOf(e1,e2)
+Comment:
+
+605   "<e1>cwe-122</e1> <e2>buffer overflow</e2> generally lead crash"
+ChildOf(e1,e2)
+Comment:
+
+606   "<e1>cwe-1229</e1> example <e2>covert channel</e2> resource never explicitly intend developer useful attacker"
+Others(e1,e2)
+Comment:
+
+607   "<e1>cwe-1233</e1> chain chipset race condition <e2>cwe-362</e2> interrupt handler detects attempt write-enable bios violation lock bit handler reset write-enable bit back 0 allow attacker issue bios write time window ref-1237"
+CoOccurrences(e1,e2)
+Comment:
+
+608   "cwe-124 <e1>buffer underflow</e1> commonly use although term also sometimes used describe <e2>buffer under-read</e2> cwe-127"
+Others(e1,e2)
+Comment:
+
+609   "<e1>cwe-124</e1> much attention pay <e2>buffer overflow</e2> underflows sometimes exist product relatively free overflow likely variant under-studied"
+Others(e1,e2)
+Comment:
+
+610   "<e1>cwe-1240</e1> dont cut corner skip resource-intensive step <e2>cwe-325</e2>"
+Others(e1,e2)
+Comment:
+
+611   "<e1>cwe-1240</e1> carefully manage protect cryptographic key see <e2>cwe-320</e2>"
+Others(e1,e2)
+Comment:
+
+612   "<e1>cwe-1240</e1> since cwe 44 various cryptography-related entry include cwe-327 <e2>cwe-1240</e2> slat extensive research analysis community consultation define consistent terminology improve relationship reduce overlap duplication"
+PeerOf(e1,e2)
+Comment:
+
+613   "cwe-1240 since cwe 44 various cryptography-related entry include <e1>cwe-327</e1> <e2>cwe-1240</e2> slat extensive research analysis community consultation define consistent terminology improve relationship reduce overlap duplication"
+PeerOf(e1,e2)
+Comment:
+
+614   "cwe-1244 <e1>cwe-1191</e1> <e2>cwe-1244</e2> involve physical debug access weaknesses different"
+PartSimilar(e1,e2)
+Comment:
+
+615   "cwe-1244 clarified difference <e1>cwe-1191</e1> <e2>cwe-1244</e2> suggest rephrase description name"
+Others(e1,e2)
+Comment:
+
+616   "<e1>cwe-1247</e1> design implementation phase one need check interface power management feature available unprivileged sw <e2>cwe-1256</e2> would make attack easy"
+Others(e1,e2)
+Comment:
+
+617   "<e1>cwe-1247</e1> underlie hardware execute code contain circuitry sensor detect voltage clock glitch attacker might launch <e2>fault-injection</e2> attack right signature check happen location mark comment cause bypass signature-checking process"
+CanFollow(e2,e1)
+Comment:
+
+618   "<e1>cwe-1248</e1> mechanism lead semiconductor defect include <e2>encapsulation failure</e2> die-attach failure wire-bond failure bulk-silicon defect oxide-layer fault aluminum-metal fault include electromigration corrosion aluminum etc"
+BeResult(e1,e2)
+Comment:
+
+619   "<e1>cwe-1249</e1> many attacker scenario realize leverage separate vulnerability relate <e2>xss</e2> command injection authentication bypass logic flaws various system"
+BeResult(e1,e2)
+Comment:
+
+620   "<e1>cwe-1249</e1> many attacker scenario realize leverage separate vulnerability relate xss <e2>command injection</e2> authentication bypass logic flaws various system"
+BeResult(e1,e2)
+Comment:
+
+621   "<e1>cwe-1249</e1> many attacker scenario realize leverage separate vulnerability relate xss command injection <e2>authentication bypass</e2> logic flaws various system"
+BeResult(e1,e2)
+Comment:
+
+622   "cwe-1249 many attacker scenario realize leverage separate vulnerability relate <e1>xss</e1> <e2>command injection</e2> authentication bypass logic flaws various system"
+Others(e1,e2)
+Comment:
+
+623   "cwe-1249 many attacker scenario realize leverage separate vulnerability relate <e1>xss</e1> command injection <e2>authentication bypass</e2> logic flaws various system"
+Others(e1,e2)
+Comment:
+
+624   "cwe-1249 many attacker scenario realize leverage separate vulnerability relate xss <e1>command injection</e1> <e2>authentication bypass</e2> logic flaws various system"
+Others(e1,e2)
+Comment:
+
+625   "<e1>cwe-125</e1> expect sentinel might locate out-of-bounds memory cause excessive data read lead segmentation fault <e2>buffer overflow</e2>"
+BeResult(e2,e1)
+Comment:
+
+626   "<e1>cwe-125</e1> however method verifies give array index le maximum length array <e2>check minimum value</e2> cwe-839"
+CoOccurrences(e1,e2)
+Comment:
+
+627   "<e1>cwe-125</e1> input array index check verify within maximum minimum range require array <e2>cwe-129</e2>"
+Others(e1,e2)
+Comment:
+
+628   "cwe-125 chain heartbleed bug receives inconsistent length parameter <e1>cwe-130</e1> enable <e2>out-of-bounds read</e2> cwe-126 return memory could include private cryptographic key sensitive data"
+BeResult(e2,e1)
+Comment:
+
+629   "cwe-125 chain product handle input string null terminate <e1>cwe-170</e1> lead <e2>buffer over-read</e2> cwe-125 heap-based buffer overflow cwe-122"
+BeResult(e2,e1)
+Comment:
+
+630   "cwe-125 chain product handle input string null terminate <e1>cwe-170</e1> lead buffer over-read cwe-125 <e2>heap-based buffer overflow</e2> cwe-122"
+BeResult(e2,e1)
+Comment:
+
+631   "<e1>cwe-125</e1> issue probably label <e2>buffer overflow</e2>"
+Others(e1,e2)
+Comment:
+
+632   "<e1>cwe-1256</e1> frequently assume physical attack <e2>fault injection</e2> side-channel analysis require attacker physical access target device"
+Others(e1,e2)
+Comment:
+
+633   "<e1>cwe-1256</e1> software-controllable mechanism dynamically scale device voltage frequency monitor power consumption common feature today chipsets also enable attacker mount <e2>fault injection</e2> side-channel attack without physical access device"
+BeResult(e2,e1)
+Comment:
+
+634   "<e1>cwe-1256</e1> <e2>fault injection</e2> attack involve strategic manipulation bit device achieve desire effect skip authentication step elevate privilege alter output cryptographic operation"
+Others(e1,e2)
+Comment:
+
+635   "<e1>cwe-1256</e1> untrusted software clear lockbit write clock frequency voltage register due inadequate protection <e2>fault injection</e2> attack could perform"
+BeResult(e2,e1)
+Comment:
+
+636   "cwe-20 <e1>lack input validation</e1> spreadsheet program lead buffer overflow integer overflow <e2>array index error</e2> memory corruption"
+BeResult(e2,e1)
+Comment:
+
+637   "cwe-20 <e1>cwe-116</e1> <e2>cwe-20</e2> close association depend nature structure message proper input validation indirectly prevent special character change meaning structured message"
+BeResult(e1,e2)
+Comment:
+
+638   "<e1>cwe-20</e1> example validate numeric id field contain 0-9 character programmer effectively prevents <e2>injection</e2> attack"
+BeResult(e2,e1)
+Comment:
+
+639   "cwe-200 composite application run high privilege <e1>cwe-250</e1> allows user specify restrict file process generates parse error leaks content file <e2>cwe-209</e2>"
+BeResult(e2,e1)
+Comment:
+
+640   "<e1>cwe-209</e1> weakness detect use dynamic tool technique interact software use large test suit many diverse input fuzz test fuzzing robustness test <e2>fault injection</e2>"
+BeResult(e1,e2)
+Comment:
+
+641   "cwe-209 composite application run high privilege <e1>cwe-250</e1> allows user specify restrict file process generates parse error leaks content file <e2>cwe-209</e2>"
+BeResult(e2,e1)
+Comment:
+
+642   "<e1>cwe-22</e1> cwe-790 <e2>cwe-182</e2> begin cover part gap"
+Others(e1,e2)
+Comment:
+
+643   "<e1>cwe-221</e1> resultant eg <e2>buffer overflow</e2> might trigger crash product log event"
+BeResult(e1,e2)
+Comment:
+
+644   "<e1>cwe-226</e1> distinction useful perspective cwe research view <e2>cwe-1000</e2>"
+Others(e1,e2)
+Comment:
+
+645   "<e1>cwe-226</e1> entry need modification clarify difference <e2>cwe-212</e2>"
+Others(e1,e2)
+Comment:
+
+646   "<e1>cwe-226</e1> description also combine two problem distinct cwe research perspective inadvertent transfer information another sphere <e2>improper initializationshutdown</e2>"
+Others(e1,e2)
+Comment:
+
+647   "<e1>cwe-228</e1> crash could due name chain <e2>cwe-690</e2> unchecked return value null pointer dereference public report rarely cover aspect vulnerability"
+Others(e1,e2)
+Comment:
+
+648   "<e1>cwe-23</e1> input decode canonicalized application current internal representation validate <e2>cwe-180</e2>"
+CanFollow(e1,e2)
+Comment:
+
+649   "cwe-23 use built-in path canonicalization function realpath c produce canonical version pathname effectively remove sequence symbolic link <e1>cwe-23</e1> <e2>cwe-59</e2>"
+Others(e1,e2)
+Comment:
+
+650   "<e1>cwe-23</e1> notice code also contain <e2>error message information leak</e2> cwe-209 user parameter produce file exists full pathname provide"
+CoOccurrences(e1,e2)
+Comment:
+
+651   "<e1>cwe-23</e1> lack output encode file retrieve might also <e2>cross-site script</e2> problem cwe-79 profile contain html code would need examine"
+CoOccurrences(e1,e2)
+Comment:
+
+652   "<e1>cwe-23</e1> code perform check type file upload <e2>cwe-434</e2>"
+CoOccurrences(e1,e2)
+Comment:
+
+653   "<e1>cwe-23</e1> depend execute environment attacker may able specify arbitrary file write lead wide variety consequence code execution <e2>x</e2> cwe-79 system crash"
+CanFollow(e2,e1)
+Comment:
+
+654   "<e1>cwe-23</e1> chain bypass protection mechanism use regexps remove result collapse unsafe value <e2>cwe-182</e2> resultant path traversal"
+CoOccurrences(e1,e2)
+Comment:
+
+655   "cwe-23 chain bypass protection mechanism use regexps remove result collapse unsafe value <e1>cwe-182</e1> resultant <e2>path traversal</e2>"
+BeResult(e2,e1)
+Comment:
+
+656   "<e1>cwe-230</e1> blank host header trigger resultant <e2>infoleak</e2>"
+CoOccurrences(e1,e2)
+Comment:
+
+657   "<e1>cwe-230</e1> blank parameter cause external error <e2>infoleak</e2>"
+CoOccurrences(e1,e2)
+Comment:
+
+658   "<e1>cwe-230</e1> blank parameter cause external error <e2>infoleak</e2>"
+CoOccurrences(e1,e2)
+Comment:
+
+659   "<e1>cwe-234</e1> resultant <e2>infoleak</e2> web server via get request without http10 version string"
+CanFollow(e2,e1)
+Comment:
+
+660   "<e1>cwe-234</e1> get request empty parameter lead error message infoleak <e2>path disclosure</e2>"
+CanFollow(e2,e1)
+Comment:
+
+661   "cwe-24 character filename avoid weaknesses <e1>cwe-23</e1> exclude directory separator avoid <e2>cwe-36</e2>"
+CoOccurrences(e1,e2)
+Comment:
+
+662   "<e1>cwe-24</e1> use list allowable file extension help avoid <e2>cwe-434</e2>"
+Others(e1,e2)
+Comment:
+
+663   "<e1>cwe-24</e1> input decode canonicalized application current internal representation validate <e2>cwe-180</e2>"
+CanFollow(e1,e2)
+Comment:
+
+664   "<e1>cwe-241</e1> input decode canonicalized application current internal representation validate <e2>cwe-180</e2>"
+CanFollow(e1,e2)
+Comment:
+
+665   "<e1>cwe-242</e1> attacker easily send arbitrarily-sized input get <e2>overflow destination buffer</e2>"
+CanFollow(e2,e1)
+Comment:
+
+666   "<e1>cwe-242</e1> attacker easily send arbitrarily-sized input operator <e2>overflow destination buffer</e2>"
+CanFollow(e2,e1)
+Comment:
+
+667   "cwe-247 <e1>cwe-247</e1> cwe-292 deprecate merge <e2>cwe-350</e2> address duplicate"
+HasMember(e2,e1)
+Comment:
+
+668   "cwe-247 cwe-247 <e1>cwe-292</e1> deprecate merge <e2>cwe-350</e2> address duplicate"
+HasMember(e2,e1)
+Comment:
+
+669   "cwe-249 however seven pernicious kingdom also <e1>path manipulation</e1> phrase <e2>external control pathnames</e2> cwe-73 factor symbolic link follow path traversal neither explicitly mention 7pk"
+Others(e1,e2)
+Comment:
+
+670   "cwe-249 however seven pernicious kingdom also path manipulation phrase <e1>external control pathnames</e1> cwe-73 factor symbolic <e2>link follow</e2> path traversal neither explicitly mention 7pk"
+BeResult(e2,e1)
+Comment:
+
+671   "cwe-249 however seven pernicious kingdom also path manipulation phrase <e1>external control pathnames</e1> cwe-73 factor symbolic link follow <e2>path traversal</e2> neither explicitly mention 7pk"
+BeResult(e2,e1)
+Comment:
+
+672   "<e1>cwe-249</e1> focus entry generally path-conversion function association <e2>buffer overflow</e2>"
+Others(e1,e2)
+Comment:
+
+673   "<e1>cwe-249</e1> however fortifys vulncat entry term path manipulation describe non-overflow weakness buffer guarantee contain entire pathname ie information truncation see <e2>cwe-222</e2> similar concept"
+Others(e1,e2)
+Comment:
+
+674   "<e1>cwe-25</e1> input decode canonicalized application current internal representation validate <e2>cwe-180</e2>"
+CanFollow(e1,e2)
+Comment:
+
+675   "<e1>cwe-250</e1> application design problem easy developer make implementation-related error cwe-271 <e2>privilege drop lowering error</e2>"
+CoOccurrences(e1,e2)
+Comment:
+
+676   "<e1>cwe-250</e1> ftp client program certain os run setuid privilege <e2>buffer overflow</e2>"
+CoOccurrences(e1,e2)
+Comment:
+
+677   "cwe-250 composite <e1>application run high privilege</e1> cwe-250 allows user specify restrict file process <e2>generates parse error leaks content file</e2> cwe-209"
+CanFollow(e2,e1)
+Comment:
+
+678   "<e1>cwe-250</e1> <e2>cwe-271</e2> probably well suit category"
+Others(e1,e2)
+Comment:
+
+679   "<e1>cwe-252</e1> check return value function typically sufficient however beware <e2>race condition</e2> cwe-362 concurrent environment"
+IntroduceFollow(e2,e1)
+Comment:
+
+680   "<e1>cwe-252</e1> lack null terminator buf result <e2>buffer overflow</e2> subsequent call strcpy"
+CanFollow(e2,e1)
+Comment:
+
+681   "cwe-252 notice <e1>return value check</e1> memcpy operation cwe-252 -1 pass size argument memcpy <e2>cwe-805</e2>"
+CanFollow(e2,e1)
+Comment:
+
+682   "<e1>cwe-252</e1> memcpy assume value unsigned interpreted maxint-1 <e2>cwe-195</e2> therefore copy far memory likely available destination buffer cwe-787 cwe-788"
+CanFollow(e2,e1)
+Comment:
+
+683   "cwe-252 memcpy assume value unsigned interpreted maxint-1 <e1>cwe-195</e1> therefore copy far memory likely available destination buffer <e2>cwe-787</e2> cwe-788"
+CanFollow(e2,e1)
+Comment:
+
+684   "cwe-252 memcpy assume value unsigned interpreted maxint-1 <e1>cwe-195</e1> therefore copy far memory likely available destination buffer cwe-787 <e2>cwe-788</e2>"
+CanFollow(e2,e1)
+Comment:
+
+685   "cwe-252 memcpy assume value unsigned interpreted maxint-1 cwe-195 therefore copy far memory likely available destination buffer <e1>cwe-787</e1> <e2>cwe-788</e2>"
+PeerOf(e1,e2)
+Comment:
+
+686   "cwe-252 since code check return value gethostbyaddr <e1>cwe-252</e1> <e2>null pointer dereference</e2> cwe-476 would occur call strcpy"
+BeResult(e2,e1)
+Comment:
+
+687   "<e1>cwe-252</e1> note code also vulnerable <e2>buffer overflow</e2> cwe-119"
+CoOccurrences(e1,e2)
+Comment:
+
+688   "cwe-252 pthreadmutexlock cannot acquire mutex reason function may introduce <e1>race condition</e1> program result <e2>undefined behavior</e2>"
+BeResult(e2,e1)
+Comment:
+
+689   "cwe-252 chain sscanf call use check username group exist return value sscanf call check <e1>cwe-252</e1> causing <e2>uninitialized variable check</e2> cwe-457 return success allow authorization bypass execute privilege cwe-863"
+BeResult(e2,e1)
+Comment:
+
+690   "cwe-252 chain sscanf call use check username group exist return value sscanf call check cwe-252 causing <e1>uninitialized variable check</e1> cwe-457 return success allow authorization bypass execute privilege <e2>cwe-863</e2>"
+CanFollow(e2,e1)
+Comment:
+
+691   "cwe-252 <e1>unchecked return value</e1> lead resultant <e2>integer overflow</e2> code execution"
+BeResult(e2,e1)
+Comment:
+
+692   "cwe-252 chain <e1>unchecked return value</e1> cwe-252 lead free invalid uninitialized pointer <e2>cwe-824</e2>"
+BeResult(e2,e1)
+Comment:
+
+693   "<e1>cwe-259</e1> properly protect key <e2>cwe-320</e2>"
+IntroduceFollow(e2,e1)
+Comment:
+
+694   "<e1>cwe-26</e1> character filename avoid weaknesses <e2>cwe-23</e2> exclude directory separator avoid cwe-36"
+ChildOf(e1,e2)
+Comment:
+
+695   "cwe-26 character filename avoid weaknesses <e1>cwe-23</e1> exclude directory separator avoid <e2>cwe-36</e2>"
+PeerOf(e1,e2)
+Comment:
+
+696   "<e1>cwe-26</e1> use list allowable file extension help avoid <e2>cwe-434</e2>"
+IntroduceFollow(e2,e1)
+Comment:
+
+697   "<e1>cwe-26</e1> equivalent denylist may incomplete <e2>cwe-184</e2>"
+IntroduceFollow(e2,e1)
+Comment:
+
+698   "<e1>cwe-26</e1> another possible error could occur filter applied way still produce dangerous data <e2>cwe-182</e2>"
+IntroduceFollow(e2,e1)
+Comment:
+
+699   "<e1>cwe-26</e1> input decode canonicalized application current internal representation validate <e2>cwe-180</e2>"
+CanFollow(e1,e2)
+Comment:
+
+700   "<e1>cwe-26</e1> make sure application <e2>decode input twice</e2> cwe-174"
+IntroduceFollow(e2,e1)
+Comment:
+
+701   "<e1>cwe-267</e1> certain debug command restrict administrator allow registry modification <e2>infoleak</e2> unsafe privilege action"
+CoOccurrences(e2,e1)
+Comment:
+
+702   "<e1>cwe-268</e1> conceptual overlap <e2>unsafe privilege</e2>"
+PartSimilar(e1,e2)
+Comment:
+
+703   "<e1>cwe-269</e1> ftp client program certain os run setuid privilege <e2>buffer overflow</e2>"
+CoOccurrences(e1,e2)
+Comment:
+
+704   "<e1>cwe-269</e1> composite application run high privilege <e2>cwe-250</e2> allows user specify restrict file process generates parse error leaks content file cwe-209"
+CoOccurrences(e1,e2)
+Comment:
+
+705   "cwe-269 composite application run high privilege <e1>cwe-250</e1> allows user specify restrict file process generates parse error leaks content file <e2>cwe-209</e2>"
+BeResult(e2,e1)
+Comment:
+
+706   "<e1>cwe-269</e1> one complication concept apply two different pillar relate control resource <e2>cwe-664</e2> protection mechanism failures cwe-693"
+Others(e1,e2)
+Comment:
+
+707   "<e1>cwe-269</e1> one complication concept apply two different pillar relate control resource cwe-664 <e2>protection mechanism failures</e2> cwe-693"
+Others(e1,e2)
+Comment:
+
+708   "<e1>cwe-27</e1> directoryfilename manipulation useful bypass <e2>path traversal</e2> protection scheme"
+ChildOf(e1,e2)
+Comment:
+
+709   "<e1>cwe-27</e1> character filename avoid weaknesses <e2>cwe-23</e2> exclude directory separator avoid cwe-36"
+ChildOf(e1,e2)
+Comment:
+
+710   "cwe-27 character filename avoid weaknesses <e1>cwe-23</e1> exclude directory separator avoid <e2>cwe-36</e2>"
+PeerOf(e1,e2)
+Comment:
+
+711   "<e1>cwe-27</e1> use list allowable file extension help avoid <e2>cwe-434</e2>"
+IntroduceFollow(e2,e1)
+Comment:
+
+712   "<e1>cwe-27</e1> equivalent denylist may incomplete <e2>cwe-184</e2>"
+IntroduceFollow(e2,e1)
+Comment:
+
+713   "<e1>cwe-27</e1> another possible error could occur filter applied way still produce dangerous data <e2>cwe-182</e2>"
+IntroduceFollow(e2,e1)
+Comment:
+
+714   "<e1>cwe-27</e1> input decode canonicalized application current internal representation validate <e2>cwe-180</e2>"
+CanFollow(e1,e2)
+Comment:
+
+715   "<e1>cwe-27</e1> make sure application <e2>decode input twice</e2> cwe-174"
+IntroduceFollow(e2,e1)
+Comment:
+
+716   "cwe-271 <e1>cwe-271</e1> <e2>cwe-272</e2> cwe-250 closely relate possibly overlap"
+PartSimilar(e1,e2)
+Comment:
+
+717   "cwe-271 <e1>cwe-271</e1> cwe-272 <e2>cwe-250</e2> closely relate possibly overlap"
+PartSimilar(e1,e2)
+Comment:
+
+718   "cwe-271 cwe-271 <e1>cwe-272</e1> <e2>cwe-250</e2> closely relate possibly overlap"
+PartSimilar(e1,e2)
+Comment:
+
+719   "<e1>cwe-272</e1> particularly likely conjunction another flaw <e2>buffer overflow</e2>"
+CoOccurrences(e1,e2)
+Comment:
+
+720   "cwe-272 <e1>cwe-271</e1> <e2>cwe-272</e2> cwe-250 closely relate possibly overlap"
+PartSimilar(e1,e2)
+Comment:
+
+721   "cwe-272 <e1>cwe-271</e1> cwe-272 <e2>cwe-250</e2> closely relate possibly overlap"
+PartSimilar(e1,e2)
+Comment:
+
+722   "cwe-272 cwe-271 <e1>cwe-272</e1> <e2>cwe-250</e2> closely relate possibly overlap"
+PartSimilar(e1,e2)
+Comment:
+
+723   "<e1>cwe-273</e1> check return value function typically sufficient however beware <e2>race condition</e2> cwe-362 concurrent environment"
+IntroduceFollow(e2,e1)
+Comment:
+
+724   "cwe-274 <e1>cwe-280</e1> <e2>cwe-274</e2> similar"
+PartSimilar(e2,e1)
+Comment:
+
+725   "<e1>cwe-28</e1> however also useful bypass <e2>path traversal</e2> protection scheme assume separator valid"
+ChildOf(e1,e2)
+Comment:
+
+726   "<e1>cwe-28</e1> character filename avoid weaknesses <e2>cwe-23</e2> exclude directory separator avoid cwe-36"
+ChildOf(e1,e2)
+Comment:
+
+727   "cwe-28 character filename avoid weaknesses <e1>cwe-23</e1> exclude directory separator avoid <e2>cwe-36</e2>"
+PeerOf(e1,e2)
+Comment:
+
+728   "<e1>cwe-28</e1> use list allowable file extension help avoid <e2>cwe-434</e2>"
+IntroduceFollow(e2,e1)
+Comment:
+
+729   "<e1>cwe-28</e1> equivalent denylist may incomplete <e2>cwe-184</e2>"
+IntroduceFollow(e2,e1)
+Comment:
+
+730   "<e1>cwe-28</e1> another possible error could occur filter applied way still produce dangerous data <e2>cwe-182</e2>"
+IntroduceFollow(e2,e1)
+Comment:
+
+731   "<e1>cwe-28</e1> input decode canonicalized application current internal representation validate <e2>cwe-180</e2>"
+CanFollow(e1,e2)
+Comment:
+
+732   "<e1>cwe-28</e1> make sure application <e2>decode input twice</e2> cwe-174"
+IntroduceFollow(e2,e1)
+Comment:
+
+733   "cwe-280 <e1>cwe-280</e1> <e2>cwe-274</e2> similar"
+PartSimilar(e1,e2)
+Comment:
+
+734   "<e1>cwe-280</e1> often resultant <e2>unchecked error condition</e2> cwe-391"
+BeResult(e1,e2)
+Comment:
+
+735   "cwe-772 entry treat <e1>cwe-400</e1> parent <e2>view 1000</e2> relationship probably appropriately describe chain"
+HasMember(e2,e1)
+Comment:
+
+736   "<e1>cwe-78</e1> security check perform client side ensure check duplicate server side order avoid <e2>cwe-602</e2>"
+IntroduceFollow(e2,e1)
+Comment:
+
+737   "<e1>cwe-78</e1> careful <e2>argument injection</e2> cwe-88"
+IntroduceFollow(e2,e1)
+Comment:
+
+738   "<e1>cwe-78</e1> force program perform validation step remove taint although must careful correctly validate input accidentally mark dangerous input untainted see <e2>cwe-183</e2> cwe-184"
+IntroduceFollow(e2,e1)
+Comment:
+
+739   "<e1>cwe-78</e1> force program perform validation step remove taint although must careful correctly validate input accidentally mark dangerous input untainted see cwe-183 <e2>cwe-184</e2>"
+IntroduceFollow(e2,e1)
+Comment:
+
+740   "<e1>cwe-78</e1> implementation develop application rely feature wary implementing registerglobals emulation subject weakness <e2>cwe-95</e2> cwe-621 similar issue"
+IntroduceFollow(e2,e1)
+Comment:
+
+741   "<e1>cwe-78</e1> implementation develop application rely feature wary implementing registerglobals emulation subject weakness cwe-95 <e2>cwe-621</e2> similar issue"
+IntroduceFollow(e2,e1)
+Comment:
+
+742   "cwe-78 latter case however <e1>cwe-88</e1> could regard primary weakness chain <e2>cwe-78</e2>"
+HasMember(e2,e1)
+Comment:
+
+743   "<e1>cwe-784</e1> attacker <e2>bypass authentication</e2> gain admin privilege set admin cookie 1"
+CanFollow(e2,e1)
+Comment:
+
+744   "<e1>cwe-784</e1> similar issue research view include cwe-247 <e2>cwe-472</e2>"
+PartSimilar(e1,e2)
+Comment:
+
+745   "cwe-784 similar issue research view include <e1>cwe-247</e1> <e2>cwe-472</e2>"
+PartSimilar(e1,e2)
+Comment:
+
+746   "<e1>cwe-785</e1> buffer large enough store result manipulation <e2>buffer overflow</e2> occur"
+CanFollow(e2,e1)
+Comment:
+
+747   "<e1>cwe-785</e1> example incorrect usage could trigger either <e2>stack-based overflow</e2> cwe-121 heap-based overflow cwe-122"
+PartSimilar(e1,e2)
+Comment:
+
+748   "<e1>cwe-785</e1> example incorrect usage could trigger either stack-based overflow cwe-121 <e2>heap-based overflow</e2> cwe-122"
+PartSimilar(e1,e2)
+Comment:
+
+749   "<e1>cwe-786</e1> negative value use memcpy operation lead <e2>buffer underflow</e2>"
+CoOccurrences(e1,e2)
+Comment:
+
+750   "<e1>cwe-787</e1> weakness detect use dynamic tool technique interact software use large test suit many diverse input fuzz test fuzzing robustness test <e2>fault injection</e2>"
+CanFollow(e1,e2)
+Comment:
+
+751   "<e1>cwe-787</e1> complete solution since many <e2>buffer overflow</e2> relate string"
+IntroduceFollow(e2,e1)
+Comment:
+
+752   "<e1>cwe-787</e1> complete solution since <e2>buffer overflow</e2> could use overwrite nearby variable modify software state dangerous way"
+IntroduceFollow(e2,e1)
+Comment:
+
+753   "<e1>cwe-787</e1> approach still susceptible calculation error include issue <e2>off-by-one error</e2> cwe-193 incorrectly calculate buffer lengths cwe-131"
+IntroduceFollow(e2,e1)
+Comment:
+
+754   "<e1>cwe-787</e1> approach still susceptible calculation error include issue off-by-one error cwe-193 <e2>incorrectly calculate buffer lengths</e2> cwe-131"
+IntroduceFollow(e2,e1)
+Comment:
+
+755   "<e1>cwe-787</e1> notice <e2>return value check</e2> memcpy operation cwe-252 -1 pass size argument memcpy cwe-805"
+CoOccurrences(e1,e2)
+Comment:
+
+756   "<e1>cwe-787</e1> note example also contain <e2>unchecked return value</e2> cwe-252 lead null pointer dereference cwe-476"
+CoOccurrences(e1,e2)
+Comment:
+
+757   "<e1>cwe-787</e1> however function cause <e2>buffer underwrite</e2> input character string contains whitespace"
+CoOccurrences(e1,e2)
+Comment:
+
+758   "<e1>cwe-787</e1> however code contain <e2>off-by-one calculation error</e2> cwe-193"
+CoOccurrences(e1,e2)
+Comment:
+
+759   "<e1>cwe-787</e1> result allocate buffer small suppose <e2>cwe-131</e2>"
+CanFollow(e1,e2)
+Comment:
+
+760   "cwe-787 chain compiler optimization <e1>cwe-733</e1> remove modifies code use detect integer overflow cwe-190 allow <e2>out-of-bounds write</e2> cwe-787"
+CanFollow(e2,e1)
+Comment:
+
+761   "<e1>cwe-787</e1> unchecked length sslv2 challenge value lead <e2>buffer underflow</e2>"
+CoOccurrences(e1,e2)
+Comment:
+
+762   "<e1>cwe-788</e1> attack lead lack availability possible include put program <e2>infinite loop</e2>"
+Others(e1,e2)
+Comment:
+
+763   "<e1>cwe-788</e1> memory accessible attacker effectively control may possible execute arbitrary code standard <e2>buffer overflow</e2>"
+Others(e1,e2)
+Comment:
+
+764   "<e1>cwe-788</e1> note example also contain <e2>unchecked return value</e2> cwe-252 lead null pointer dereference cwe-476"
+CoOccurrences(e1,e2)
+Comment:
+
+765   "<e1>cwe-788</e1> notice <e2>return value check</e2> memcpy operation cwe-252 -1 pass size argument memcpy cwe-805"
+CoOccurrences(e1,e2)
+Comment:
+
+766   "cwe-788 memcpy assume value unsigned interpreted maxint-1 cwe-195 therefore copy far memory likely available destination buffer <e1>cwe-787</e1> <e2>cwe-788</e2>"
+PeerOf(e1,e2)
+Comment:
+
+767   "<e1>cwe-788</e1> however message length variable structure use condition end loop without validate message length variable accurately reflect length message body <e2>cwe-606</e2>"
+CoOccurrences(e1,e2)
+Comment:
+
+768   "cwe-789 technical impact often encounter consequence <e1>cwe-789</e1> andor <e2>cwe-1325</e2>"
+PeerOf(e1,e2)
+Comment:
+
+769   "<e1>cwe-789</e1> index validate <e2>cwe-129</e2> might possible attacker modify element message intend"
+CoOccurrences(e1,e2)
+Comment:
+
+770   "<e1>cwe-789</e1> weakness closely associate <e2>integer overflow</e2> cwe-190"
+PartSimilar(e1,e2)
+Comment:
+
+771   "<e1>cwe-789</e1> <e2>integer overflow</e2> attack would concentrate provide extremely large number trigger overflow cause less memory allocate expect"
+Others(e1,e2)
+Comment:
+
+772   "<e1>cwe-789</e1> provide large value trigger <e2>integer overflow</e2> attacker could still cause excessive amount memory allocate"
+Others(e1,e2)
+Comment:
+
+773   "<e1>cwe-79</e1> security check perform client side ensure check duplicate server side order avoid <e2>cwe-602</e2>"
+IntroduceFollow(e2,e1)
+Comment:
+
+774   "<e1>cwe-79</e1> attacker might able exploit discrepancy conduct <e2>injection</e2> attack even might able bypass protection mechanism assume original encoding also use downstream component"
+ChildOf(e1,e2)
+Comment:
+
+775   "<e1>cwe-79</e1> implementation develop application rely feature wary implementing registerglobals emulation subject weakness <e2>cwe-95</e2> cwe-621 similar issue"
+IntroduceFollow(e2,e1)
+Comment:
+
+776   "<e1>cwe-79</e1> implementation develop application rely feature wary implementing registerglobals emulation subject weakness cwe-95 <e2>cwe-621</e2> similar issue"
+IntroduceFollow(e2,e1)
+Comment:
+
+777   "cwe-79 implementation develop application rely feature wary implementing registerglobals emulation subject weakness <e1>cwe-95</e1> <e2>cwe-621</e2> similar issue"
+PartSimilar(e1,e2)
+Comment:
+
+778   "<e1>cwe-79</e1> code careful avoid <e2>sql injection</e2> attack cwe-89 stop valid html store database"
+CoOccurrences(e1,e2)
+Comment:
+
+779   "cwe-79 close relationship <e1>x</e1> <e2>csrf</e2> cwe-352"
+PeerOf(e1,e2)
+Comment:
+
+780   "<e1>cwe-79</e1> since victim intentionally insert malicious script <e2>csrf</e2> root cause"
+Others(e1,e2)
+Comment:
+
+781   "<e1>cwe-794</e1> lead <e2>relative path traversal</e2> cwe-23"
+BeResult(e2,e1)
+Comment:
+
+782   "<e1>cwe-795</e1> lead <e2>relative path traversal</e2> cwe-22"
+BeResult(e2,e1)
+Comment:
+
+783   "<e1>cwe-795</e1> lead <e2>relative path traversal</e2> cwe-22"
+BeResult(e2,e1)
+Comment:
+
+784   "<e1>cwe-796</e1> lead <e2>relative path traversal</e2> cwe-22"
+BeResult(e2,e1)
+Comment:
+
+785   "<e1>cwe-797</e1> lead <e2>relative path traversal</e2> cwe-22"
+BeResult(e2,e1)
+Comment:
+
+786   "<e1>cwe-798</e1> properly protect key <e2>cwe-320</e2>"
+BeResult(e1,e2)
+Comment:
+
+787   "<e1>cwe-80</e1> although classified <e2>injection</e2> problem pertinent issue improper conversion special character respective context-appropriate entity display user"
+ChildOf(e1,e2)
+Comment:
+
+788   "<e1>cwe-80</e1> common mistake lead continue <e2>xss</e2> vulnerability validate field expect redisplayed site"
+ChildOf(e1,e2)
+Comment:
+
+789   "<e1>cwe-80</e1> attacker might able exploit discrepancy conduct <e2>injection</e2> attack even might able bypass protection mechanism assume original encoding also use downstream component"
+CanFollow(e2,e1)
+Comment:
+
+790   "<e1>cwe-80</e1> open browser subtle <e2>x</e2> attack"
+IntroduceFollow(e2,e1)
+Comment:
+
+791   "<e1>cwe-80</e1> help mitigate <e2>xss</e2> attack user session cookie set session cookie httponly"
+ChildOf(e1,e2)
+Comment:
+
+792   "<e1>cwe-80</e1> <e2>x</e2> parameter link"
+ChildOf(e1,e2)
+Comment:
+
+793   "<e1>cwe-80</e1> <e2>x</e2> web-based email product via attachment filename"
+ChildOf(e1,e2)
+Comment:
+
+794   "<e1>cwe-80</e1> html <e2>injection</e2> post message"
+ChildOf(e1,e2)
+Comment:
+
+795   "<e1>cwe-80</e1> <e2>x</e2> quote error page"
+ChildOf(e1,e2)
+Comment:
+
+796   "<e1>cwe-805</e1> length value exceed size destination <e2>buffer overflow</e2> could occur"
+CanFollow(e2,e1)
+Comment:
+
+797   "<e1>cwe-805</e1> <e2>buffer overflow</e2> often use execute arbitrary code usually outside scope program implicit security policy"
+BeResult(e2,e1)
+Comment:
+
+798   "<e1>cwe-805</e1> <e2>buffer overflow</e2> generally lead crash"
+BeResult(e2,e1)
+Comment:
+
+799   "<e1>cwe-805</e1> attack lead lack availability possible include put program <e2>infinite loop</e2>"
+Others(e1,e2)
+Comment:
+
+800   "<e1>cwe-805</e1> example analysis tool might report <e2>buffer overflow</e2> originate command line argument program expect run setuid special privilege"
+Others(e1,e2)
+Comment:
+
+801   "<e1>cwe-805</e1> weakness detect use dynamic tool technique interact software use large test suit many diverse input fuzz test fuzzing robustness test <e2>fault injection</e2>"
+CanFollow(e1,e2)
+Comment:
+
+802   "<e1>cwe-805</e1> complete solution since many <e2>buffer overflow</e2> relate string"
+Others(e1,e2)
+Comment:
+
+803   "<e1>cwe-805</e1> run compile software use feature extension automatically provide protection mechanism mitigate eliminates <e2>buffer overflow</e2>"
+Others(e1,e2)
+Comment:
+
+804   "<e1>cwe-805</e1> security check perform client side ensure check duplicate server side order avoid <e2>cwe-602</e2>"
+IntroduceFollow(e2,e1)
+Comment:
+
+805   "<e1>cwe-805</e1> complete solution since <e2>buffer overflow</e2> could use overwrite nearby variable modify software state dangerous way"
+Others(e1,e2)
+Comment:
+
+806   "<e1>cwe-805</e1> careful avoid <e2>cwe-243</e2> weakness relate jail"
+IntroduceFollow(e2,e1)
+Comment:
+
+807   "<e1>cwe-805</e1> note example also contain <e2>unchecked return value</e2> cwe-252 lead null pointer dereference cwe-476"
+CoOccurrences(e1,e2)
+Comment:
+
+808   "cwe-805 note example also contain <e1>unchecked return value</e1> cwe-252 lead <e2>null pointer dereference</e2> cwe-476"
+BeResult(e2,e1)
+Comment:
+
+809   "<e1>cwe-805</e1> notice <e2>return value check</e2> memcpy operation cwe-252 -1 pass size argument memcpy cwe-805"
+CoOccurrences(e1,e2)
+Comment:
+
+810   "cwe-805 notice <e1>return value check</e1> memcpy operation cwe-252 -1 pass size argument memcpy <e2>cwe-805</e2>"
+BeResult(e2,e1)
+Comment:
+
+811   "cwe-805 memcpy assume value unsigned interpreted maxint-1 <e1>cwe-195</e1> therefore copy far memory likely available destination buffer <e2>cwe-787</e2> cwe-788"
+BeResult(e2,e1)
+Comment:
+
+812   "cwe-805 memcpy assume value unsigned interpreted maxint-1 <e1>cwe-195</e1> therefore copy far memory likely available destination buffer cwe-787 <e2>cwe-788</e2>"
+BeResult(e2,e1)
+Comment:
+
+813   "cwe-805 memcpy assume value unsigned interpreted maxint-1 cwe-195 therefore copy far memory likely available destination buffer <e1>cwe-787</e1> <e2>cwe-788</e2>"
+PeerOf(e1,e2)
+Comment:
+
+814   "<e1>cwe-805</e1> create <e2>buffer overflow</e2> size source character string great d character string"
+BeResult(e2,e1)
+Comment:
+
+815   "<e1>cwe-805</e1> lead <e2>buffer overflow</e2> number character contain character string point filename large number character allow local character string"
+BeResult(e2,e1)
+Comment:
+
+816   "<e1>cwe-805</e1> string copy method use buf character string within sizeof call ensure character size buf array copy avoid <e2>buffer overflow</e2> show"
+BeResult(e2,e1)
+Comment:
+
